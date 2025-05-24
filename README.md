@@ -55,7 +55,6 @@
 - 📫 Email: gg395784985@gmail.com
 - 🧠 文档: [github pages](https://395784985.github.io/)
 - 📘 博客: [个人博客](https://blog.hb114.eu.org/)
-- 💬 微信: 可私信获取
 
 ---
 
