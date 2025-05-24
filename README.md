@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Zhao Xudong 👋</h1>
+<h1>Hi, I'm Zhao Xudong 👋</h1>
 
-<p align="center">
+<p>
 10+ 年 Java 架构开发经验｜AI 全栈开发探索者｜代码实践派
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=395784985&color=blue)
 
 ---
 
